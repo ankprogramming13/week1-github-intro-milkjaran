@@ -126,6 +126,25 @@ function fancyAlert(arg) {
 |โรงเรียนดัดรุณี      |   ม.3   |   2557   |
 |วิทยาลัยอาชีวศึกษาฉะเชิงเทรา      |   ปวช.3   |   2559   |
 
+เว็บไซต์ e-portfolio
+
+[คลิกที่นี่]("https://sites.google.com/site/jaranyaboonmee/khxmul-nakreiyn-naksuksa")
+
+ขั้นตอนการทำข้าวผัดไข่
+1. ตั้งกระทะ ใส่น้ำมัน
+2. รอกระทะร้อน
+3. ใส่กระเทียม
+4. จากนั้นตอกไข่ลงไป
+5. ผัดให้ไข่พอสุก แล้วใส่ข้าว
+6. ผัดให้เข้ากัน
+7. ปรุงรส
+8. ตักใส่จาน
+
+![รูปภาพ](https://8eb67783-a-62cb3a1a-s-sites.googlegroups.com/site/jaranyaboonmee/khxmul-nakreiyn-naksuksa/20401267_1537514066307912_846236017_n.jpg?attachauth=ANoY7cpsaa0sHz-qSPmpbSCVaspH7queMUH7-3qioe-59TEPw33Fc5ANrbH89Eal1S9HR_VCdgbXdoIfsfa4Ij9x1P5YHj6aF5j8ZhpbMOo5nlMiIJu7P3k8q5UmQhsCIrVJyIRZMV49Bv5UFl5SU7I1SH2bi48aDE0GlZKWqm1ddwbYlgmvDoKqyA9EwDMBpX2JPLM9b6e_swGj21U0LdUvvs4Ex8KAsLxZiYbVUgPLbqDvlyHd3QePuIg4wSU7nODPc1O6hzXacaa8Ydg8R5EaoQZVAiRNpx62nfopeeN67kqdvIdSngA%3D&attredirects=0)
+
+- [x] รู้เรื่องเพราะมีคู่มือแนะนำ
+- [ ] ไม่รู้เรื่อง
+
 **$$$$3**
 
 ### ตอบคำถามท้ายการทดลอง
